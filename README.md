@@ -57,18 +57,6 @@
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rxberto&show_icons=true&theme=dracula&hide_border=true&bg_color=1E1E1E&title_color=A78BFA&text_color=E5E7EB" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxberto&layout=compact&theme=dracula&hide_border=true&bg_color=1E1E1E&title_color=A78BFA&text_color=E5E7EB" alt="Top Languages" height="170"/>
-</div>
-
-<!--💡TIP: Si aún no aparecen, verifica que tengas actividad pública y que el repositorio tenga tu nombre de usuario.-->
-
----
-
 ### 📫 Conecta conmigo
 
 <div align="center">
